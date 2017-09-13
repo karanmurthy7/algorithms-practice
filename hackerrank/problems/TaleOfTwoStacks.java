@@ -80,5 +80,4 @@ public class TaleOfTwoStacks {
         }
         scan.close();
     }
-
 }
