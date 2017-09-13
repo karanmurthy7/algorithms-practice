@@ -100,8 +100,4 @@ public class RunningMedian {
 		return (double)(lowers.peek() + highers.peek()) / 2;
 	}
 
-
-
-
-
 }
