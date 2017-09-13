@@ -73,5 +73,4 @@ public class SubsetSum {
 			System.out.println("There is no subset within the given set that adds to " + sum);
 		}
 	}
-
 }
